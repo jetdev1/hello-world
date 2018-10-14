@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+The quick brown fox jumped over the lazy dog
+How was that
+
+Just a practice
